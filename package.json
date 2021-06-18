@@ -1,0 +1,12 @@
+{
+  "name": "yh-cli",
+  "version": "1.0.0",
+  "description": "a cli by yhzzy",
+  "main": "index.js",
+  "bin": "bin/cli.js",
+  "author": "yhzzy",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}
