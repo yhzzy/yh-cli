@@ -7,6 +7,10 @@
     "yh-cli": "bin/cli.js"
   },
   "author": "yhzzy",
+  "files": [
+    "lib",
+    "bin"
+  ],
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
