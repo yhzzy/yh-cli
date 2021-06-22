@@ -1,10 +1,10 @@
 {
-  "name": "yh-cli",
+  "name": "yhzzy-cli",
   "version": "1.0.0",
   "description": "a cli by yhzzy",
   "main": "index.js",
   "bin": {
-    "yh-cli": "bin/cli.js"
+    "yhzzy-cli": "bin/cli.js"
   },
   "author": "yhzzy",
   "files": [
